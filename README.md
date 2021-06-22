@@ -7,4 +7,4 @@ When I was learning what Numpy (Python's one infamous library) could do, then th
 
 'quikr_car.csv' is the file that I collected from kaggle.com and then I tried to clean the data as much as I can to get a final prediction of the price of the car.
 
-I have also uploaded the final file which I saved as a excel file when all the data cleaning was done.
+I have also uploaded the final file which I saved as a excel file "Cleaned_Car_data" when all the data cleaning was done.
